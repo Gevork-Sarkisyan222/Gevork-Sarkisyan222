@@ -40,3 +40,5 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJiSvJyPl2_jzBMakkNPavVEOS1xzEs-j2tg&s" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
