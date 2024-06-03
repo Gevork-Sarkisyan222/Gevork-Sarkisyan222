@@ -1,7 +1,7 @@
 ## Hi there I'm a Gevork 👋
 
 My Skills 👋
-<span style="text-align: center;">Hi there I'm a Gevork 👋</span>
+<h2 style="text-align: center;">Hi there I'm a Gevork 👋</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
