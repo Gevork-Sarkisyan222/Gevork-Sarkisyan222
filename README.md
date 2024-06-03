@@ -3,7 +3,7 @@
 
 <h2 align="center">Frontend Developer</h2>
 
-<span><a href="https://gevork-portfolio.vercel.app/">My Portfolio </a></span>
+<span>My Portfolio<a href="https://gevork-portfolio.vercel.app/"Open</a></span>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
