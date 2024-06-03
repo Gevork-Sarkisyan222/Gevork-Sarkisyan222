@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there I'm Gevork Sarkisyan👋</h1>
 
-<h2 align="center">A Frontend Developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
