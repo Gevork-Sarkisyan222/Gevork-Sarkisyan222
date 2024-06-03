@@ -1,4 +1,3 @@
-## Hi there I'm a Gevork 👋
 
 <h1 align="center">Hi there I'm a Gevork 👋</h1>
 
