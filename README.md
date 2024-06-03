@@ -3,9 +3,9 @@
 
 <h2 align="center">Frontend Developer</h2>
 
-<div align="center">
+<span align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</span>
 
 ---
 
