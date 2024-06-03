@@ -1,5 +1,9 @@
 ## Hi there I'm a Gevork 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h2 style="text-align: center;">My Skills 👋</h2>
 
 <div>
