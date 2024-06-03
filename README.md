@@ -16,10 +16,6 @@
 
 - :zap: In my free time, I watch tutorials, coding a pages and explore the libraries
 
-## :mailbox: How to reach me: 
-<a href="https://t.me/gevork_sarkisyan">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50"/>
-</a>
 
 <h2 style="text-align: center;">My Skills 👋</h2>
 
