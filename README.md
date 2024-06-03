@@ -47,6 +47,8 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJiSvJyPl2_jzBMakkNPavVEOS1xzEs-j2tg&s" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" title="Socket IO" alt="Socket IO" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
