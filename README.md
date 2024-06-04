@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi I'm Gevork Sarkisyan👋</h1>
 
-<h2 align="center">Frontend Developer</h2>
+<h3 align="center">Frontend Developer</h3>
 
 <div align="center">
 <span>My Portfolio <a target="_blank" href="https://gevork-portfolio.vercel.app/">https://gevork-portfolio.vercel.app/</a></span>
