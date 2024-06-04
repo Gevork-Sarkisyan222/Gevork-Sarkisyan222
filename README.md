@@ -54,7 +54,7 @@
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VS code" alt="Vs code" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPDDOjs-NRNNFRboOOlP0aELPnIilPCRo5Q&s" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
-  <img src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_7-512.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/windows-icon-2018x2048-0y0cfqbh.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
 ---
