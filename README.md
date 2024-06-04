@@ -26,6 +26,8 @@
 - :zap: In my free time, I watch tutorials, coding a pages and explore the libraries
 
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -51,6 +53,8 @@
   <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" title="Socket IO" alt="Socket IO" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### :hammer_and_wrench: Contact with me:
 <div> 
