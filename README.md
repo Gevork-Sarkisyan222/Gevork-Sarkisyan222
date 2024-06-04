@@ -58,7 +58,8 @@
 
 ### 💬 Contact with me: 
 <div> 
-[![https://t.me/gevork_sarkisyan][ico-telegram]][https://t.me/gevork_sarkisyan]
+  <a href="https://www.linkedin.com/in/gevork-sarkisyan-a1195328b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    ![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
   <a href="https://www.instagram.com/sarkisyan.gev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:zadroterkom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gevork-sarkisyan-a1195328b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
