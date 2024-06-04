@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
-<span>My Portfolio <a target="_blank" href="https://gevork-portfolio.vercel.app/">https://gevork-portfolio.vercel.app/</a></span>
+<h3>My Portfolio <a target="_blank" href="https://gevork-portfolio.vercel.app/">https://gevork-portfolio.vercel.app/</a></h3>
 </div>
 
 </div>
