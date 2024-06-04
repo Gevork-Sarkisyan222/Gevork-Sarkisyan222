@@ -33,7 +33,7 @@
 
 - :zap: In my free time, I watch tutorials, coding a pages and explore the libraries
 
----
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 
