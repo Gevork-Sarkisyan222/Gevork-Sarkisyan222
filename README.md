@@ -71,9 +71,11 @@
 ---
 ### :fire: My Stats :
 
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevork-Sarkisyan222&show_icons=true)](https://github.com/Gevork-Sarkisyan222/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gevork-Sarkisyan222&layout=compact)
+</div>
 
 
 
