@@ -71,14 +71,7 @@
 ---
 ### :fire: My Stats :
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gevork-Sarkisyan222=anuraghazra)](https://github.com/Gevork-Sarkisyan222/github-readme-stats)
 
 
 
