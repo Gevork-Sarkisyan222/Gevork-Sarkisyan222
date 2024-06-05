@@ -72,4 +72,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://camo.githubusercontent.com/1a69e783f9f561c228ec1b51f2c240746a3e44c0fccb1b76065ad00d300e068d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636f6465722d646f" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-do" style="max-width: 100%;">
+
 
