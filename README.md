@@ -71,7 +71,7 @@
 ---
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gevork-Sarkisyan222=anuraghazra)](https://github.com/Gevork-Sarkisyan222/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gevork-Sarkisyan222)](https://github.com/Gevork-Sarkisyan222/github-readme-stats)
 
 
 
